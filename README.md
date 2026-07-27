@@ -127,4 +127,9 @@ Durante este projeto foram praticados conceitos como:
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento Back-end com Java e Spring Boot.
 
 GitHub:
-https://github.com/sarahrbz
+[@sarahrbz](https://github.com/sarahrbz)
+
+
+
+
+
